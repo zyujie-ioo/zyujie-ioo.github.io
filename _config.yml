@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Welcome!"
-description              : "Ph.D. student in Computer Science of National University of Singapore."
+description              : "CS Ph.D. student of National University of Singapore."
 repository               : "zyujie-ioo/zyujie-ioo.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "zyujie"
+  linkedin         : "https://www.linkedin.com/in/yujie-zhang-b90206218/"
   dblp             : # example:"https://dblp.org/pid/75/6568-6.html"
   orcid            : # example:"https://orcid.org/0000-0002-9160-3848"
   pinterest        :
