@@ -6,13 +6,13 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yi Ren (任意)"
-description              : "Research scientist in Sea AI Lab. Graduating from Zhejiang University. Focusing on speech, NLP and music."
-repository               : "rayeren/rayeren.github.io"
+title                    : "Welcome!"
+description              : "Ph.D. student in Computer Science of National University of Singapore."
+repository               : "zyujie-ioo/zyujie-ioo.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      : G-SWFCX99KQZ
+google_analytics_id      : 0wuYudUAAAAJ
 
 # SEO Related
 google_site_verification : b_BbOIt7d513ZXYDw-YRMicO6O5tthYiouqWDdWjGTU
@@ -21,14 +21,14 @@ baidu_site_verification  : code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "Yi Ren (任意)"
-  avatar           : "images/ry_profile.jpeg"
-  bio              : "Sea AI Lab"
+  name             : "Yujie Zhang"
+  avatar           : "images/zyujie_profile.jpeg"
+  bio              : "System and Networking Lab"
   location         : "Singapore"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=4FA6C0AAAAAJ"
-  email            : "rayeren@zju.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=0wuYudUAAAAJ"
+  email            : "zyujie@comp.nus.edu.sg"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,18 +37,18 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "RayeRen"
+  github           : "zyujie-ioo"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "rayeren"
-  dblp             : "https://dblp.org/pid/75/6568-6.html"
-  orcid            : "https://orcid.org/0000-0002-9160-3848"
+  linkedin         : "zyujie"
+  dblp             : # example:"https://dblp.org/pid/75/6568-6.html"
+  orcid            : # example:"https://orcid.org/0000-0002-9160-3848"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : # example: http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   twitter          : 
